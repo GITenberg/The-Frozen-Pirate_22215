@@ -1,0 +1,35 @@
+_repo: The-Frozen-Pirate_22215
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Russell, William Clark
+    alias: Russell, W. Clark (William Clark)
+    birthdate: 1844
+    deathdate: 1911
+    gutenberg_agent_id: '8948'
+    url: http://www.gutenberg.org/2009/agents/8948
+    wikipedia: http://en.wikipedia.org/wiki/William_Clark_Russell
+description: A sailor stranded on an iceberg discovers a trapped pirate vessel, its
+  crew encased in ice for fifty years. A campfire thaws out French corsair Jules Tassard,
+  who offers to share his treasure before descending into murderous madness. This
+  1887 nautical horror yarn predates H. G. Wells' use of suspended animation as a
+  plot vehicle.
+gutenberg_bookshelf: Pirates, Buccaneers, Corsairs, etc.
+gutenberg_issued: '2007-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22215'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sea stories'
+- !lcsh 'Science fiction'
+- !lcc 'PR'
+- !lcsh 'Pirates -- Fiction'
+title: The Frozen Pirate
+url: http://www.gutenberg.org/ebooks/22215
